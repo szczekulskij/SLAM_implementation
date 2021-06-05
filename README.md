@@ -1,2 +1,2 @@
-# SLAM_implementation
+# SLAM Implementation
 Simultaneous localization and mapping in python &amp; pytorch : ) 

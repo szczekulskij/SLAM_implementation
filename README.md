@@ -30,7 +30,7 @@ Simultaneous localization and mapping in python &amp; pytorch : )
   * Use best initializing methods for weights (was it normal distribution ?)
 ### Stage 4 - Train & Test :
   * Iterative process of Training & Testing 
-### Stage 4 - Improvement 
+### Stage 5 - Improvement 
   * How can I improve at least slightly upon that architecture? (Read through papers that used similar architecture but for different projects)
   * SWA any good ? 
 
